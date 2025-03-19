@@ -1,5 +1,9 @@
 # TrendBFfactor
 sip FS BF解析5-a分析のためのプログラム
+
+[Google Colab で開く](https://colab.research.google.com/github/tanidayasuo/TrendBFfactor/blob/main/TrendBFfactor.ipynb?hl=ja)
+
+
 input.xlsxを入力にして、output.xlsxを出力するプログラムを作成。
 
 １．input.xlsxの「クラス分け」シートと「配合表」シートを入力にして、output.xlsxの「クラス別配合表」を作成する。
